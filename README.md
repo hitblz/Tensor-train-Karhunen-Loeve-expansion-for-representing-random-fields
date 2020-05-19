@@ -1,1 +1,1 @@
-# Tensor-train-Karhunen-Lo-ve-expansion-for-representing-random-fields
+# Tensor train-Karhunen-Loève expansion for representing random fields
